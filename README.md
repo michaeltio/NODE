@@ -1,2 +1,2 @@
-Next-Gen Online Discord Entity (NDOE)
+Next-Gen Online Discord Entity (NODE)
 Your Smart Discord Companion
